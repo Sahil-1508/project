@@ -1,6 +1,6 @@
 @font-face {
   font-family: buttermilk;
-  src: url(./Buttermilk-BF6908562e83228.ttf);
+  src: url(./Buttermilk-BF6908562e83228.woff2);
 }
 
 * {
@@ -17,7 +17,7 @@ html, body {
 #bg {
   width: 100%;
   height: 100%;
-  background-image: url(./bg.jpg);
+  background-image: url(./bg.webp);
   background-size: cover;
   background-position: center;
 }
